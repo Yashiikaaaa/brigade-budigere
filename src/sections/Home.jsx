@@ -65,7 +65,7 @@ export const Home = ({ openContactModal }) => {
 
                 {/* Subtitle */}
                 <p className="font-body text-white md:text-2xl text-sm font-normal lg:w-4/6 mx-auto lg:mx-0">
-                Premium Township in Budigere Road, Bangalore
+                Premium Township on Budigere Road, Bangalore
                   
                 </p>
               </div>

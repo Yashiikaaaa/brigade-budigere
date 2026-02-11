@@ -5,8 +5,8 @@ export const Features = () => {
  const featuresData = [
     { id: 1, title: 'Project Size', value: '11 acres' },
     { id: 2, title: 'Possession', value: '2029 ' },
-    { id: 3, title: 'Starting Price', value: '₹ 95 Lacs*' },
-    { id: 4, title: 'Configurations', value: '1, 2, 3 BHK' },
+    { id: 3, title: 'Starting Price', value: '₹ 1.4 Cr*' },
+    { id: 4, title: 'Configurations', value: '2, 3 BHK' },
   ];
 
   return (

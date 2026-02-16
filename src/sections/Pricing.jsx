@@ -29,14 +29,14 @@ const Pricing = ({ openContactModal, formSubmitted }) => {
   };
 
   const propertyTypes = [
-     { 
-      type: "1 BHK", 
-      price: "₹ 3.25 Cr ++", 
+    //  { 
+    //   type: "1 BHK", 
+    //   price: "₹ 3.25 Cr ++", 
       
-      image: bhk7,
-      leadSource: LEAD_SOURCES.PRICING_1200sqft, // or appropriate lead source
-      propertyType: PROPERTY_TYPES.sqft1200
-    },
+    //   image: bhk7,
+    //   leadSource: LEAD_SOURCES.PRICING_1200sqft, // or appropriate lead source
+    //   propertyType: PROPERTY_TYPES.sqft1200
+    // },
     { 
       type: "2 BHK", 
       price: "₹ 3.25 Cr ++", 

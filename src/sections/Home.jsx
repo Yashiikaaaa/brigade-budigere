@@ -80,7 +80,7 @@ export const Home = ({ openContactModal }) => {
                     />
                   </div>
                   <p className="max-w-96 font-body font-semibold text-left text-white md:text-2xl text-sm">
-                    Near the Airport{/* Location name */}
+                    Whitefield Extension{/* Location name */}
                   </p>
                 </div>
               </div>
